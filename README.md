@@ -1,1 +1,1 @@
-# MikeXCohen-DeepLearning-Python-Tutorial
+This is code I wrote during MikeXCohen's "A deep understanding of deep learning (with Python intro)" course, specifically the python tutorial part of it. I did not do the entire thing as I am slightly familiar with python, and this repo is mostly used to transfer from one computer to the other.
